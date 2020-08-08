@@ -7,9 +7,5 @@
   "version": "1.0.0",
   "workspaces": [
     "packages/*"
-  ],
-  "dependencies": {
-    "app1": "file:packages/app1",
-    "app2": "file:packages/app2"
-  }
+  ]
 }
